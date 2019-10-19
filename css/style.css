@@ -2,16 +2,19 @@
 
 /* common S */
 /* .veal-mid { display: inline; vertical-align: middle; } */
-.linehe-50 { line-height: 50px; }
+.linehe-50 { line-height: 50px;}
 .line-bo { border-bottom: 1px solid #333;}
+.pa { padding: 20px;}
+.pa-top { padding-top: 20px;}
+
 /* common E */
 
 /* flex S */
-.flex { display: flex; }
-.juco-spar { justify-content: space-around; }
-.juco-spbe { justify-content: space-between; }
-.flde-col { flex-direction: column; }
+.flex { display: flex;}
+.juco-spar { justify-content: space-around;}
+.juco-spbe { justify-content: space-between;}
+.flde-col { flex-direction: column;}
 /* flex E */
 
-.my { border: 2px solid red; }
+.my { border: 2px solid red;}
 
