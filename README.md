@@ -10,7 +10,7 @@ clone page: [https://www.quora.com/]
 ### our page: [https://sangmin-web.github.io/Quora_clone/]
 
 #### 기능
-+
++ 디자인 적용을 위한 모든 태그 초기화 - yh_reset.css
 +
 +
 +
